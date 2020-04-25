@@ -1,4 +1,4 @@
-# otus
+# Тестовое задание от Otus - PHP Backend developer
 ## Install
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/):
 ```
