@@ -9,7 +9,7 @@ This package based on pure PHP. Library can check the correctness of the bracket
 ```php
 use App\IsBalanced;
 
-$bracketsChecker = new IsBalanced('(){}[]');
+$bracketsChecker = new IsBalanced('(){}[]'); // String '(){}[]' brackets for checked
 
 // tests
 
